@@ -10,7 +10,7 @@ Visually impaired individuals often face challenges in understanding their surro
 3. 🚧 Object and obstacle detection
 
 4. 🤖 Personalized assistance for tasks
-#### 🛠️ Technologies Used
+#### 🛠️ Technologies Used: 
 * Python: The core programming language for the application.
 * Streamlit: A fast and interactive framework for building the user interface.
 * YOLOv8: Advanced object detection model for identifying and annotating objects in images.
@@ -19,7 +19,7 @@ Visually impaired individuals often face challenges in understanding their surro
 * Pyttsx3: Converts extracted text to speech for seamless auditory feedback.
 * OpenCV & PIL: Image processing librarie
   
-#### ✨Acknowledgements
+#### ✨Acknowledgements: 
 * Streamlit
 * Ultralytics YOLO
 * Google Generative AI
