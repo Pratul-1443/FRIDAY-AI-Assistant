@@ -1,4 +1,4 @@
-# Building AI Assisting FRIDAY isually Impaired Individuals
+# Building AI Assisting FRIDAY isually Impaired Individual
 
 ## **Overview**
 Visually impaired individuals often face challenges in understanding their surroundings. Our project aims to address this by providing:
